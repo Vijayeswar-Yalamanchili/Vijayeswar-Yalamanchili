@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Vijayeswar
+- 👋 Hi, I'm @Vijayeswar Yalamanchili
 - 🔭 I’m Interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: vijayeswar_y@yahoo.com
