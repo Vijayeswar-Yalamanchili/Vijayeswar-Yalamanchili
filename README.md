@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayeswar-yalamanchili" alt="vijayeswar-yalamanchili" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://vijayeswar-yalamanchili.github.io/Portfolio_Page/](https://vijayeswar-yalamanchili.github.io/Portfolio_Page/)
-
+  
 - 📫 How to reach me **vijayeswar_y@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
