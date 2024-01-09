@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
   
-- 💬 Ask me about JavaScript & React
+- 💬 Ask me about **JavaScript & React**
   
 - 📫 How to reach me **vijayeswar_y@yahoo.com**
 
