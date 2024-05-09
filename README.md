@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayeswar-yalamanchili" alt="vijayeswar-yalamanchili" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently Looking for **MERN Stack** Jobs
   
-- 💬 Ask me about **JavaScript & React**
+- 💬 Ask me about **MERN STACK**
   
 - 📫 How to reach me **vijayeswar_y@yahoo.com**
 
