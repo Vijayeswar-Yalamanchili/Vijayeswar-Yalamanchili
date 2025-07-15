@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lac-five-25.vercel.app/](https://portfolio-lac-five-25.vercel.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,MERN,MySQL,SQL**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,MongoDB,Express.js,Node.js,MERN Stack,MySQL,SQL,TailwindCSS,Bootstrap**
 
 - 📫 How to reach me **vijayeswar_y@yahoo.com**
 
